@@ -1,0 +1,524 @@
+{
+ "categorias": [
+  {
+   "slug": "acampamento",
+   "nome": "Barracas & Kits",
+   "icone": "tent",
+   "resumo": "Barracas, lonas e kits completos para montar seu acampamento no TOP sem esquecer nada.",
+   "de_para": [
+    "Kit",
+    "Barraca",
+    "Lona"
+   ]
+  },
+  {
+   "slug": "dormir",
+   "nome": "Sono & Descanso",
+   "icone": "moon",
+   "resumo": "Saco de dormir, isolante, colchão, travesseiro e cobertor para noites bem dormidas no mato.",
+   "de_para": [
+    "Saco de dormir",
+    "Isolante Térmico",
+    "Colchão",
+    "Travesseiro",
+    "Cobertor"
+   ]
+  },
+  {
+   "slug": "mochilas",
+   "nome": "Mochilas & Hidratação",
+   "icone": "pack",
+   "resumo": "Cargueiras para levar tudo e mochilas de ataque com hidratação para o dia a dia da trilha.",
+   "de_para": [
+    "Mochila Cargueira",
+    "Mochila de Ataque",
+    "Refil de Água"
+   ]
+  },
+  {
+   "slug": "trilha",
+   "nome": "Lanternas & Bastões",
+   "icone": "bolt",
+   "resumo": "Lanternas de cabeça e bastões de caminhada para andar com segurança de dia e de noite.",
+   "de_para": [
+    "Lanterna de cabeça",
+    "Bastão de caminhada"
+   ]
+  },
+  {
+   "slug": "powerbank",
+   "nome": "Power Banks",
+   "icone": "battery",
+   "resumo": "Carregadores portáteis para manter celular e lanterna com bateria durante todos os dias em que você estiver servindo.",
+   "de_para": [
+    "Powerbank",
+    "Power Bank"
+   ]
+  },
+  {
+   "slug": "calcados",
+   "nome": "Tênis & Meias",
+   "icone": "boot",
+   "resumo": "Tênis de trilha com boa aderência, tênis aquático e meias anti-bolha.",
+   "de_para": [
+    "Tenis",
+    "Meias"
+   ]
+  },
+  {
+   "slug": "vestuario",
+   "nome": "Roupas & Chuva",
+   "icone": "shirt",
+   "resumo": "Proteção UV, peças de compressão e capas de chuva para enfrentar sol, frio e aguaceiro.",
+   "de_para": [
+    "Roupa Termica",
+    "Capa de Chuva"
+   ]
+  }
+ ],
+ "subcategorias": {
+  "Kit": "Kits completos",
+  "Barraca": "Barracas",
+  "Lona": "Lonas",
+  "Saco de dormir": "Sacos de dormir",
+  "Isolante Térmico": "Isolantes térmicos",
+  "Colchão": "Colchões infláveis",
+  "Travesseiro": "Travesseiros",
+  "Cobertor": "Cobertores e mantas",
+  "Mochila Cargueira": "Mochilas cargueiras",
+  "Mochila de Ataque": "Mochilas de ataque e hidratação",
+  "Refil de Água": "Refis de água",
+  "Lanterna de cabeça": "Lanternas de cabeça",
+  "Bastão de caminhada": "Bastões e cajados",
+  "Tenis": "Tênis",
+  "Meias": "Meias",
+  "Roupa Termica": "Proteção UV e compressão",
+  "Capa de Chuva": "Capas de chuva",
+  "Powerbank": "Power banks"
+ },
+ "produtos": {
+  "2SfM6AY": {
+   "titulo": "Mochila Cargueira 90L Reforçada",
+   "descricao": "Espaço de sobra para acampamentos de vários dias, travessias e viagens longas. Com cerca de 90 litros, a cargueira comporta roupas, saco de dormir, alimentação e equipamentos em um só volume.",
+   "destaques": [
+    "Capacidade de aproximadamente 90 litros",
+    "Construção reforçada para carga pesada",
+    "Indicada para camping, trilha, montanhismo e viagem",
+    "Cor e modelo enviados conforme estoque do vendedor"
+   ]
+  },
+  "1vkFCNb": {
+   "titulo": "Mochila Cargueira Joyfox 65+5L Impermeável",
+   "descricao": "Cargueira de 65 litros com extensão de mais 5 litros para quando a bagagem aperta. Material impermeável e costas respiráveis para aguentar o dia inteiro de caminhada.",
+   "destaques": [
+    "65 L + 5 L de extensão",
+    "Tecido impermeável",
+    "Sistema de costas respirável",
+    "Reforçada para trilha, camping e viagem"
+   ]
+  },
+  "1BaPFgS": {
+   "titulo": "Mochila Cargueira Nautika Intruder 60L",
+   "descricao": "Cargueira de 60 litros da Nautika, marca tradicional do outdoor brasileiro. Tamanho equilibrado para acampamentos de fim de semana e viagens com mochilão.",
+   "destaques": [
+    "Capacidade de 60 litros",
+    "Marca Nautika",
+    "Ideal para camping e viagens de mochilão"
+   ]
+  },
+  "1LaRLiq": {
+   "titulo": "Kit Camping Completo 6 Itens (Legendários)",
+   "descricao": "Tudo o que você precisa para o acampamento em um único pedido: barraca, lona, saco de dormir, isolante térmico, poncho impermeável e lanterna de cabeça. Prático para quem vai participar de um retiro ou está montando o primeiro equipamento.",
+   "destaques": [
+    "Barraca + lona",
+    "Saco de dormir + isolante térmico",
+    "Poncho impermeável",
+    "Lanterna de cabeça"
+   ]
+  },
+  "19US1iZ": {
+   "titulo": "Barraca Automática New Hawaii 2 Pessoas",
+   "descricao": "Barraca de montagem automática para duas pessoas: abre em segundos e poupa tempo na chegada ao acampamento. Coluna d'água de 1200 mm e proteção solar UPF 50+.",
+   "destaques": [
+    "Montagem automática",
+    "Para 2 pessoas",
+    "Coluna d'água de 1200 mm",
+    "Proteção UV UPF 50+"
+   ]
+  },
+  "13MSwEB": {
+   "titulo": "Barraca Joyfox 2 Pessoas Ultraleve 3500mm",
+   "descricao": "Barraca ultraleve para duas pessoas com alta impermeabilidade (coluna d'água de 3500 mm). Boa escolha para quem carrega tudo nas costas e não quer passar aperto com chuva.",
+   "destaques": [
+    "Para 2 pessoas",
+    "Coluna d'água de 3500 mm",
+    "Ultraleve, ótima para trekking"
+   ]
+  },
+  "1eHU6qb": {
+   "titulo": "Barraca NTK Windy 1 Pessoa Laranja",
+   "descricao": "Barraca individual da NTK, compacta e impermeável, na cor laranja. Para quem acampa sozinho e quer um abrigo pequeno, leve e fácil de montar.",
+   "destaques": [
+    "Para 1 pessoa",
+    "Impermeável",
+    "Marca NTK (Nautika)",
+    "Cor laranja"
+   ]
+  },
+  "1AH1BAm": {
+   "titulo": "Cobertor Fleece de Camping Cinza",
+   "descricao": "Cobertor de fleece leve e quentinho para usar dentro do saco de dormir ou por cima nas noites mais frias do acampamento.",
+   "destaques": [
+    "Tecido fleece",
+    "Leve e fácil de dobrar",
+    "Cor cinza"
+   ]
+  },
+  "2dpniX9": {
+   "titulo": "Manta Soft Solteiro Microfibra Antialérgica",
+   "descricao": "Manta soft de microfibra em tamanho solteiro, macia e antialérgica. Serve no acampamento, na viagem de carro ou em casa.",
+   "destaques": [
+    "Tamanho solteiro",
+    "Microfibra soft",
+    "Antialérgica"
+   ]
+  },
+  "1vtyiAL": {
+   "titulo": "Colchão Inflável Solteiro com Bomba",
+   "descricao": "Colchão inflável de solteiro que já vem com bomba para encher. Deixa a noite na barraca muito mais confortável do que dormir direto no chão.",
+   "destaques": [
+    "Tamanho solteiro",
+    "Bomba inflador inclusa",
+    "Para camping e viagem"
+   ]
+  },
+  "1qTvrq9": {
+   "titulo": "Colchonete Inflável Joyfox 190x60cm",
+   "descricao": "Colchonete inflável Joyfox de 190 x 60 cm com travesseiro integrado e bomba manual. Compacto na mochila e confortável na barraca.",
+   "destaques": [
+    "190 x 60 cm",
+    "Travesseiro integrado",
+    "Bomba manual inclusa",
+    "Cor verde"
+   ]
+  },
+  "1Fg86tw": {
+   "titulo": "Colchão Inflável Joyfox Luxo com Bomba Recarregável",
+   "descricao": "Versão premium da Joyfox: colchão inflável de solteiro com bomba recarregável embutida, que enche sem esforço. Acompanha almofada e bolsa de armazenamento.",
+   "destaques": [
+    "Bomba recarregável integrada",
+    "Almofada inclusa",
+    "Bolsa de armazenamento",
+    "Tamanho solteiro"
+   ]
+  },
+  "1Ag26Jd": {
+   "titulo": "Isolante Térmico EVA Aluminizado",
+   "descricao": "Isolante de EVA com face aluminizada que bloqueia o frio e a umidade do chão. Item básico e barato que faz enorme diferença na qualidade do sono.",
+   "destaques": [
+    "EVA com face aluminizada",
+    "Isola frio e umidade do solo",
+    "Leve e barato"
+   ]
+  },
+  "1Kqts5D": {
+   "titulo": "Isolante Térmico Naturehike Egg Crate R 1.8",
+   "descricao": "Isolante dobrável tipo \"caixa de ovo\" da Naturehike, com valor R de 1.8. Dobra em sanfona, monta em segundos e não fura como um colchão inflável.",
+   "destaques": [
+    "Valor R 1.8",
+    "Dobrável em sanfona",
+    "Formato egg crate",
+    "Marca Naturehike"
+   ]
+  },
+  "1Lzrc7W": {
+   "titulo": "Isolante Térmico Dobrável Azteq Thor 180x50",
+   "descricao": "Isolante dobrável Azteq Thor de 180 x 50 cm em XPE de 8 mm. Leve, resistente e prático de prender na parte de fora da mochila.",
+   "destaques": [
+    "180 x 50 cm",
+    "XPE de 8 mm",
+    "Dobrável",
+    "Marca Azteq"
+   ]
+  },
+  "2uqzD7a": {
+   "titulo": "Mochila de Hidratação Camplivre Ataque 20L",
+   "descricao": "Mochila de ataque de 20 litros com sistema de hidratação, ideal para o dia de trilha: leva água, lanche, casaco e o essencial sem pesar.",
+   "destaques": [
+    "20 litros",
+    "Compatível com hidratação",
+    "Para trilha e camping"
+   ]
+  },
+  "24nVLeH": {
+   "titulo": "Mochila NTK Attack Air X 30L Laranja",
+   "descricao": "Mochila de ataque de 30 litros da NTK com costas ventiladas. Tamanho ótimo para trilhas de um dia inteiro. Compatível com bolsa de hidratação (vendida separadamente).",
+   "destaques": [
+    "30 litros",
+    "Compatível com reservatório de água",
+    "Cor laranja",
+    "Bolsa de água vendida à parte"
+   ]
+  },
+  "1GKpT9v": {
+   "titulo": "Mochila de Hidratação com Bolsa de 3 Litros",
+   "descricao": "Mochila de hidratação que já vem com reservatório de 3 litros. Serve para trilha, caminhada, corrida e bike: bebe água sem parar e sem tirar a mochila.",
+   "destaques": [
+    "Reservatório de 3 L incluso",
+    "Para trilha, corrida e ciclismo",
+    "Cor verde-escuro"
+   ]
+  },
+  "2A3aaDY": {
+   "titulo": "Refil Reservatório de Água 2L",
+   "descricao": "Reservatório de hidratação de 2 litros para usar em mochilas de ataque compatíveis. Ótimo complemento para mochilas que não vêm com bolsa de água.",
+   "destaques": [
+    "Capacidade de 2 litros",
+    "Para mochilas de hidratação",
+    "Com mangueira"
+   ]
+  },
+  "1j6taRn": {
+   "titulo": "Bastão de Caminhada Nautika Anti-Shock",
+   "descricao": "Bastão retrátil da Nautika com sistema anti-shock que absorve o impacto nas descidas e poupa joelhos e tornozelos.",
+   "destaques": [
+    "Retrátil (ajusta a altura)",
+    "Sistema anti-shock",
+    "Marca Nautika"
+   ]
+  },
+  "1ubUqAr": {
+   "titulo": "Bastão de Caminhada Dobrável Antiderrapante",
+   "descricao": "Bastão de trekking dobrável com ponteira antiderrapante. Fecha em poucos segundos e cabe na mochila quando não está em uso.",
+   "destaques": [
+    "Dobrável",
+    "Ponteira antiderrapante",
+    "Leve e compacto"
+   ]
+  },
+  "2zzHKBM": {
+   "titulo": "Cajado de Madeira Personalizado 160cm",
+   "descricao": "Cajado de madeira de 160 cm com personalização, o companheiro clássico de quem vai para o Legendários. Apoio firme na trilha e uma lembrança para guardar depois.",
+   "destaques": [
+    "Madeira",
+    "160 cm de altura",
+    "Personalizado"
+   ]
+  },
+  "2QND6hg": {
+   "titulo": "Lanterna de Cabeça LED 140 Lumens",
+   "descricao": "Lanterna de cabeça com 140 lumens e luz branca e vermelha. A luz vermelha preserva a visão noturna e não ofusca quem está perto de você.",
+   "destaques": [
+    "140 lumens",
+    "Luz branca e vermelha",
+    "Mãos livres"
+   ]
+  },
+  "2tXPbeb": {
+   "titulo": "Lanterna de Cabeça/Boné Nitecore NU11 150 Lumens",
+   "descricao": "Lanterna Nitecore NU11 de 150 lumens com sensor, que pode ser usada na cabeça ou presa na aba do boné. Leve e da marca preferida de quem leva iluminação a sério.",
+   "destaques": [
+    "150 lumens",
+    "Sensor de acionamento",
+    "Uso na cabeça ou no boné",
+    "Marca Nitecore"
+   ]
+  },
+  "1mhrDp9": {
+   "titulo": "Lanterna LED Recarregável para Boné",
+   "descricao": "Lanterna LED recarregável que prende na aba do boné. Ajustável, prática para acampamento, pescaria e ciclismo.",
+   "destaques": [
+    "Recarregável",
+    "Prende no boné",
+    "Ângulo ajustável"
+   ]
+  },
+  "335cE5E": {
+   "titulo": "Lona Impermeável 2x2m Azul",
+   "descricao": "Lona impermeável de 2 x 2 m. Vai embaixo da barraca para proteger o piso ou vira um toldo improvisado contra chuva e sol.",
+   "destaques": [
+    "2 x 2 metros",
+    "Impermeável",
+    "Uso sob a barraca ou como toldo"
+   ]
+  },
+  "2XKrnfN": {
+   "titulo": "Saco de Dormir Impermeável 2,10m x 75cm",
+   "descricao": "Saco de dormir impermeável de 2,10 m x 75 cm, confortável e com bolsa de transporte. Opção de ótimo custo-benefício para as noites de acampamento no Legendários.",
+   "destaques": [
+    "2,10 m x 75 cm",
+    "Impermeável",
+    "Bolsa de transporte inclusa"
+   ]
+  },
+  "2kVYYwi": {
+   "titulo": "Saco de Dormir Joyfox com Abertura para os Braços",
+   "descricao": "Saco de dormir Joyfox com zíper duplo e aberturas para os braços: dá para se mexer, comer e ler sem sair dele. 210 x 75 cm, impermeável e portátil.",
+   "destaques": [
+    "Zíper duplo",
+    "Abertura para os braços",
+    "210 x 75 cm",
+    "Impermeável"
+   ]
+  },
+  "2TPVvHF": {
+   "titulo": "Saco de Dormir NTK Viper Laranja",
+   "descricao": "Saco de dormir NTK Viper na cor laranja, muito usado por quem participa do Legendários. Confortável para as noites de acampamento.",
+   "destaques": [
+    "Marca NTK (Nautika)",
+    "Cor laranja",
+    "Ideal para servir no Legendários"
+   ]
+  },
+  "181N8Cc": {
+   "titulo": "Travesseiro Inflável Leve para Camping",
+   "descricao": "Travesseiro inflável leve e dobrável que ocupa quase nada na mochila e melhora muito a noite de sono.",
+   "destaques": [
+    "Inflável",
+    "Leve e dobrável",
+    "Ocupa pouco espaço"
+   ]
+  },
+  "2w1JZp7": {
+   "titulo": "Travesseiro Inflável à Prova d'Água",
+   "descricao": "Travesseiro inflável à prova d'água para camping, viagem de carro, ônibus ou praia.",
+   "destaques": [
+    "À prova d'água",
+    "Inflável e compacto",
+    "Camping, viagem e praia"
+   ]
+  },
+  "2nYMff7": {
+   "titulo": "Tênis Fila Racer Skytrail Masculino",
+   "descricao": "Tênis de trail running da Fila com solado de boa aderência para terra, pedra e barro. Muito procurado por quem se prepara para o Legendários.",
+   "destaques": [
+    "Tênis de trilha",
+    "Solado com tração",
+    "Masculino"
+   ]
+  },
+  "2sL3u8E": {
+   "titulo": "Tênis Asics Trabuco Terra 3 Preto e Laranja",
+   "descricao": "O Asics Trabuco Terra 3 foi feito para trilha: amortecimento para longas distâncias e tração para terreno irregular. Nas cores preto e laranja.",
+   "destaques": [
+    "Trail running",
+    "Amortecimento para longas distâncias",
+    "Preto e laranja"
+   ]
+  },
+  "1oN6h3k": {
+   "titulo": "Tênis Olympikus Corre Trilha 3 Masculino",
+   "descricao": "Versão para trilha da linha Corre, da Olympikus. Tecnologia de corrida nacional com solado pensado para terra e pedra.",
+   "destaques": [
+    "Linha Corre para trilha",
+    "Masculino",
+    "Produto original"
+   ]
+  },
+  "16RtefK": {
+   "titulo": "Tênis Asics Gel-Sonoma 8 Verde",
+   "descricao": "Asics Gel-Sonoma 8, tênis de trilha com amortecimento GEL e solado aderente. Bom para caminhadas e trail no dia a dia.",
+   "destaques": [
+    "Amortecimento GEL",
+    "Solado para trilha",
+    "Cor verde",
+    "Masculino"
+   ]
+  },
+  "1Yr12sF": {
+   "titulo": "Tênis Aquático Antiderrapante Neoprene",
+   "descricao": "Tênis aquático de neoprene com solado antiderrapante, para travessia de rio, cachoeira, praia e pedras molhadas.",
+   "destaques": [
+    "Neoprene",
+    "Antiderrapante",
+    "Seca rápido"
+   ]
+  },
+  "1Zua3RH": {
+   "titulo": "Meia Lupo Corrida Anti Bolha (2 Pares)",
+   "descricao": "Kit com 2 pares de meia Lupo em poliamida, cano curto e tecnologia anti-bolha. Detalhe pequeno que salva seus pés numa caminhada longa.",
+   "destaques": [
+    "2 pares",
+    "Poliamida",
+    "Anti-bolha",
+    "Cano curto"
+   ]
+  },
+  "1Q3Dw3A": {
+   "titulo": "Kit 3 Camisas Proteção UV Segunda Pele",
+   "descricao": "Kit com 3 camisas masculinas segunda pele com proteção UV. Protegem do sol na trilha e servem de camada térmica nas noites frias.",
+   "destaques": [
+    "3 camisas",
+    "Proteção UV",
+    "Segunda pele",
+    "Masculina"
+   ]
+  },
+  "1juShNY": {
+   "titulo": "Calça Térmica Legging com Compressão",
+   "descricao": "Calça térmica masculina de compressão para usar por baixo da roupa no frio ou em atividades físicas intensas.",
+   "destaques": [
+    "Térmica",
+    "Compressão",
+    "Masculina"
+   ]
+  },
+  "2KvtjPk": {
+   "titulo": "Kit 2 Shorts de Compressão Masculino",
+   "descricao": "Kit com 2 shorts de compressão masculinos. Evitam assaduras em caminhadas longas e podem ser usados por baixo de bermuda ou calça.",
+   "destaques": [
+    "2 unidades",
+    "Compressão",
+    "Evita assaduras"
+   ]
+  },
+  "2zs5kVM": {
+   "titulo": "Poncho Capa de Chuva NTK Compacto",
+   "descricao": "Poncho impermeável compacto da NTK, resistente e fácil de guardar. Cobre você e a mochila em caso de chuva.",
+   "destaques": [
+    "Impermeável",
+    "Compacto",
+    "Marca NTK (Nautika)"
+   ]
+  },
+  "2YXwdi6": {
+   "titulo": "Capa de Chuva com Capuz Ajustável",
+   "descricao": "Capa de chuva multifuncional com capuz ajustável, resistente e prática para trilha, acampamento e dia a dia.",
+   "destaques": [
+    "Capuz ajustável",
+    "Resistente",
+    "Multiuso"
+   ]
+  },
+  "139kfzg": {
+   "titulo": "Power Bank 50.000mAh Carregador Portátil",
+   "descricao": "Bateria de altíssima capacidade (50.000 mAh) para passar vários dias longe da tomada. Carrega o celular diversas vezes e ainda recarrega a lanterna de cabeça.",
+   "destaques": [
+    "50.000 mAh",
+    "Saída USB",
+    "Carrega vários aparelhos",
+    "Várias recargas completas do celular"
+   ]
+  },
+  "2tqG1qc": {
+   "titulo": "Power Bank 10.000mAh Turbo Bahrein",
+   "descricao": "Power bank compacto de 10.000 mAh com carregamento turbo. Leve para ir no bolso ou na mochila de ataque, compatível com iPhone, Android e relógios.",
+   "destaques": [
+    "10.000 mAh",
+    "Carregamento turbo",
+    "Compacto e leve",
+    "Compatível com iPhone e Android"
+   ]
+  },
+  "1VR6Xru": {
+   "titulo": "Power Bank Tantsa 20.000mAh USB-C 22,5W",
+   "descricao": "Equilíbrio entre capacidade e tamanho: 20.000 mAh com carregamento rápido de 22,5 W pela porta USB-C. Garante bateria para o celular durante todo o evento.",
+   "destaques": [
+    "20.000 mAh",
+    "Carregamento rápido 22,5 W",
+    "Porta USB-C",
+    "Cor preta"
+   ]
+  }
+ }
+}
