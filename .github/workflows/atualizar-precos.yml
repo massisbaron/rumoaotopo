@@ -2,7 +2,7 @@ name: Atualizar preços
 
 on:
   schedule:
-    - cron: "0 9 * * *"     # todo dia às 06:00 (horário de Brasília)
+    - cron: "23 9 * * *"    # todo dia por volta das 06:23 (Brasília); minuto quebrado evita a fila da hora cheia
   workflow_dispatch:         # botão "Run workflow" para rodar na hora
   push:
     paths: ["data/links.xlsx"]   # roda também quando você sobe uma planilha nova
