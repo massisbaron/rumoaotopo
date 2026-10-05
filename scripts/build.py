@@ -9,6 +9,7 @@ from pathlib import Path
 SITE_NAME = "Rumo ao Topo"
 SITE_TAGLINE = "Equipamentos para servir no Legendários"
 SITE_URL = "https://rumoaotopo.pages.dev"   # troque pelo domínio final depois do deploy
+HERO_CODE = "2SfM6AY"   # produto em destaque no topo da home (código do link meli.la)
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "site"
@@ -217,7 +218,7 @@ for f in ASSETS.iterdir():
     shutil.copy(f, OUT / f.name)
 
 # Home
-kit = next((p for p in products if p["code"] == "1LaRLiq"), products[0])
+kit = next((p for p in products if p["code"] == HERO_CODE), products[0])
 best = [p for p in products if p.get("badge")][:8]
 deals = sorted(products, key=lambda p: -p["pct"])[:8]
 tiles = "".join(f'''<a class="tile" href="/categoria/{c["slug"]}/">{icon(c["icone"], "tile-ico")}<span class="tile-n">{escape(c["nome"])}</span><span class="tile-c">{len(c["produtos"])} produtos</span><img src="{img(c["produtos"][0]["pic"], "V")}" alt="" loading="lazy" width="160" height="160"></a>''' for c in cats)
@@ -228,10 +229,10 @@ home = f'''
       <span class="eyebrow">Para quem vai servir no Legendários</span>
       <h1>Preparado para<br><em>chegar ao topo.</em></h1>
       <p>Barracas, sacos de dormir, mochilas, lanternas e tênis de trilha selecionados para quem vai servir no Legendários, com os melhores preços do Mercado Livre.</p>
-      <div class="hero-cta"><a class="btn" href="/categoria/acampamento/">Ver barracas e kits</a><a class="btn btn-ghost" href="/checklist-legendarios/">Checklist para servir</a></div>
+      <div class="hero-cta"><a class="btn" href="/categoria/acampamento/">Ver barracas</a><a class="btn btn-ghost" href="/checklist-legendarios/">Checklist para servir</a></div>
     </div>
     <a class="hero-card" href="/produto/{kit["slug"]}/">
-      <span class="badge">Kit completo</span>
+      <span class="badge">{escape((kit.get("badge") or "Destaque").title())}</span>
       <img src="{img(kit["pic"])}" alt="{escape(kit["title"])}" width="500" height="500" fetchpriority="high">
       <div><h3>{escape(kit["title"])}</h3>{price_block(kit)}</div>
     </a>
@@ -335,7 +336,7 @@ check_body = f'''<section class="wrap block narrow">{crumbs}
 <li>{icon("check")}Guarde roupas e saco de dormir em sacos plásticos dentro da mochila para protegê-los da chuva.</li>
 <li>{icon("check")}Tênis novo? Use por pelo menos uma semana antes para evitar bolhas.</li></ul></div>
 </section>
-{section("Kits e itens essenciais", ([kit] + [p for p in products if p is not kit and p.get("badge")])[:4])}'''
+{section("Itens essenciais mais vendidos", ([kit] + [p for p in products if p is not kit and p.get("badge")])[:4])}'''
 page("/checklist-legendarios/", f"Checklist: o que levar para servir no Legendários | {SITE_NAME}",
      "Lista completa do que levar para servir no Legendários: barraca, saco de dormir, isolante, lanterna, mochila, tênis e roupas.",
      check_body, og_image=img(kit["pic"]), jsonld=[crumbs_ld])

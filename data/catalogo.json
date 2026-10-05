@@ -2,9 +2,9 @@
  "categorias": [
   {
    "slug": "acampamento",
-   "nome": "Barracas & Kits",
+   "nome": "Barracas & Lonas",
    "icone": "tent",
-   "resumo": "Barracas, lonas e kits completos para montar seu acampamento no TOP sem esquecer nada.",
+   "resumo": "Barracas e lonas para montar seu abrigo no TOP com proteção contra chuva e sol.",
    "de_para": [
     "Kit",
     "Barraca",
@@ -124,16 +124,6 @@
     "Capacidade de 60 litros",
     "Marca Nautika",
     "Ideal para camping e viagens de mochilão"
-   ]
-  },
-  "1LaRLiq": {
-   "titulo": "Kit Camping Completo 6 Itens (Legendários)",
-   "descricao": "Tudo o que você precisa para o acampamento em um único pedido: barraca, lona, saco de dormir, isolante térmico, poncho impermeável e lanterna de cabeça. Prático para quem vai participar de um retiro ou está montando o primeiro equipamento.",
-   "destaques": [
-    "Barraca + lona",
-    "Saco de dormir + isolante térmico",
-    "Poncho impermeável",
-    "Lanterna de cabeça"
    ]
   },
   "19US1iZ": {
