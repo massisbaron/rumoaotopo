@@ -43,7 +43,7 @@
   "category": "Mochila Cargueira",
   "link": "https://meli.la/1vkFCNb",
   "item_id": "MLB7562437460",
-  "pdp_url": "https://www.mercadolivre.com.br/mochila-cargueira-joyfox-655l-impermeavel-trilha-camping-viagem-reforcada-respiravel-tofynr-profissional/p/MLB65736009?matt_event_ts=1792427510483&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=de600c09-2cb3-40ec-b5d6-e229c05c269a",
+  "pdp_url": "https://www.mercadolivre.com.br/mochila-cargueira-joyfox-655l-impermeavel-trilha-camping-viagem-reforcada-respiravel-tofynr-profissional/p/MLB65736009?matt_event_ts=1792506132610&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=164d3458-8867-4e39-b721-333be0548661",
   "thumb": [
    "987184-MLA107387862363_022026"
   ],
@@ -87,14 +87,14 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Mochila Cargueira Intruder 60 Litros Viagem Camping Nautika",
   "category": "Mochila Cargueira",
   "link": "https://meli.la/1BaPFgS",
   "item_id": "MLB3336596355",
-  "pdp_url": "https://produto.mercadolivre.com.br/MLB-3336596355-mochila-cargueira-intruder-60-litros-viagem-camping-nautika-_JM?matt_event_ts=1792427512981&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=b5a07c79-3bb8-4313-b383-955c41948110",
+  "pdp_url": "https://produto.mercadolivre.com.br/MLB-3336596355-mochila-cargueira-intruder-60-litros-viagem-camping-nautika-_JM?matt_event_ts=1792506134677&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=0677db18-29e7-4a96-a323-0b4e41a44356",
   "thumb": [
    "800867-MLB69748505948_062023"
   ],
@@ -102,14 +102,14 @@
   "price": 439.99,
   "old_price": null,
   "discount": null,
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "New Hawaii Barraca Camping Automática 2 Pessoas 1200mm Impermeável Upf50+",
   "category": "Barraca",
   "link": "https://meli.la/19US1iZ",
   "item_id": "MLB6648015242",
-  "pdp_url": "https://www.mercadolivre.com.br/new-hawaii-barraca-camping-automatica-2-pessoas-1200mm-impermeavel-upf50/p/MLB68350399?matt_event_ts=1792427515464&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=bec366ae-8c90-486f-9d82-d7604a583cc7",
+  "pdp_url": "https://www.mercadolivre.com.br/new-hawaii-barraca-camping-automatica-2-pessoas-1200mm-impermeavel-upf50/p/MLB68350399?matt_event_ts=1792506136604&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=3d526956-8bd6-43b0-9f67-a654a23d0ae6",
   "thumb": [
    "680587-MLA110663764819_042026"
   ],
@@ -119,14 +119,14 @@
   "old_price": 226.9,
   "discount": "22% OFF",
   "installments_raw": {
-   "text": "5x {price} sem juros",
-   "no_interest": true,
+   "text": "12x {price}",
+   "no_interest": false,
    "values": [
     {
      "key": "price",
      "type": "price",
      "price": {
-      "value": 35.2,
+      "value": 17.39,
       "currency": "BRL"
      }
     }
@@ -153,35 +153,32 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Barraca Joyfox Para 2 Pessoas, Impermeável 3500mm e Ultraleve",
   "category": "Barraca",
   "link": "https://meli.la/13MSwEB",
   "item_id": "MLB5164630913",
-  "pdp_url": "https://www.mercadolivre.com.br/barraca-joyfox-para-2-pessoas-impermeavel-3500mm-e-ultraleve/p/MLB37800539?matt_event_ts=1792427517883&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=040ba759-05f6-4e6e-80a9-cd8600c1e309",
+  "pdp_url": "https://www.mercadolivre.com.br/barraca-joyfox-para-2-pessoas-impermeavel-3500mm-e-ultraleve/p/MLB37800539?matt_event_ts=1792506138716&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=3e0b676d-8c77-4908-b377-6425530abec9",
   "thumb": [
    "904546-MLA100947798332_122025"
   ],
   "badge": "MAIS VENDIDO",
   "ml_title": "Barraca Joyfox Para 2 Pessoas, Impermeável 3500mm e Ultraleve",
-  "price": 375.25,
+  "price": 395,
   "old_price": 449,
-  "discount": "16% OFF no Pix",
+  "discount": "12% OFF",
   "installments_raw": {
-   "text": "ou {price_total} em outros meios",
+   "text": "12x {price}",
    "no_interest": false,
    "values": [
     {
-     "key": "price_total",
+     "key": "price",
      "type": "price",
      "price": {
-      "value": 395,
+      "value": 38.64,
       "currency": "BRL"
-     },
-     "styles": {
-      "color": "primary"
      }
     }
    ]
@@ -207,14 +204,14 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Barraca Camping Windy 1 Pessoa Ntk Acampamento Impermeável Cor Laranja",
   "category": "Barraca",
   "link": "https://meli.la/1eHU6qb",
   "item_id": "MLB4847124075",
-  "pdp_url": "https://www.mercadolivre.com.br/barraca-camping-windy-1-pessoa-ntk-acampamento-impermeavel-cor-laranja/p/MLB50874383?pdp_filters=item_id%3AMLB4847124075&matt_event_ts=1792427520306&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=13480366-8825-4716-99e0-725a9e121a2d",
+  "pdp_url": "https://www.mercadolivre.com.br/barraca-camping-windy-1-pessoa-ntk-acampamento-impermeavel-cor-laranja/p/MLB50874383?pdp_filters=item_id%3AMLB4847124075&matt_event_ts=1792506140663&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=8d401284-a263-465b-93f7-37962bd85fc0",
   "thumb": [
    "888973-MLA99370431966_112025"
   ],
@@ -257,14 +254,14 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Cobertor Fleece De Camping - Cor Cinza",
   "category": "Cobertor",
   "link": "https://meli.la/1AH1BAm",
   "item_id": "MLB3693660135",
-  "pdp_url": "https://www.mercadolivre.com.br/cobertor-fleece-de-camping-cor-cinza/p/MLB32546747?matt_event_ts=1792427522699&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=7dd9103a-e873-4e1f-b5a4-7bc7308b8951",
+  "pdp_url": "https://www.mercadolivre.com.br/cobertor-fleece-de-camping-cor-cinza/p/MLB32546747?matt_event_ts=1792506142692&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=8e807c19-ee02-4544-b822-e258c5550650",
   "thumb": [
    "715589-MLU74479052537_022024"
   ],
@@ -279,14 +276,14 @@
    "promise_type": "none",
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Coberta Manta Soft Solteiro Microfibra Anti-alérgica",
   "category": "Cobertor",
   "link": "https://meli.la/2dpniX9",
   "item_id": "MLB6482701282",
-  "pdp_url": "https://www.mercadolivre.com.br/coberta-manta-soft-solteiro-microfibra-antialergica-novo/up/MLBU3547403658?pdp_filters=item_id%3AMLB6482701282&matt_event_ts=1792427525210&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=30fce21e-5b2a-4827-9840-4372fcb56bd9",
+  "pdp_url": "https://www.mercadolivre.com.br/coberta-manta-soft-solteiro-microfibra-antialergica-novo/up/MLBU3547403658?pdp_filters=item_id%3AMLB6482701282&matt_event_ts=1792506144623&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=b8b9cc3d-f82d-4bd1-8ac3-e78ef232136f",
   "thumb": [
    "983440-MLB97006366608_112025"
   ],
@@ -315,14 +312,14 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Colchão Inflável Solteiro Com Bomba Inflador Camping Viagem",
   "category": "Colchão",
   "link": "https://meli.la/1vtyiAL",
   "item_id": "MLB7590817050",
-  "pdp_url": "https://www.mercadolivre.com.br/colchao-inflavel-solteiro-com-bomba-inflador-camping-viagem/up/MLBU5116038858?pdp_filters=item_id%3AMLB7590817050&matt_event_ts=1792427527561&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=459cc947-4ca8-48b7-99d1-6fe65695d87d",
+  "pdp_url": "https://www.mercadolivre.com.br/colchao-inflavel-solteiro-com-bomba-inflador-camping-viagem/up/MLBU5116038858?pdp_filters=item_id%3AMLB7590817050&matt_event_ts=1792506146614&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=916c76a7-9afa-4804-9f73-d1564ebadc83",
   "thumb": [
    "644192-MLB119367146279_102026"
   ],
@@ -352,14 +349,14 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Colchonete Inflável Solteiro Joyfox 190x60cm Verde Com Travesseiro e Bomba Manual",
   "category": "Colchão",
   "link": "https://meli.la/1qTvrq9",
   "item_id": "MLB4188864805",
-  "pdp_url": "https://www.mercadolivre.com.br/colchonete-inflavel-solteiro-joyfox-190x60cm-verde-com-travesseiro-e-bomba-manual/p/MLB45691791?pdp_filters=item_id%3AMLB4188864805&matt_event_ts=1792427529907&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=99632721-b2ff-47c7-8256-55bcc1f81531",
+  "pdp_url": "https://www.mercadolivre.com.br/colchonete-inflavel-solteiro-joyfox-190x60cm-verde-com-travesseiro-e-bomba-manual/p/MLB45691791?pdp_filters=item_id%3AMLB4188864805&matt_event_ts=1792506148694&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=f73f74f8-86f8-49a6-839e-445640000695",
   "thumb": [
    "923172-MLA104867049147_012026"
   ],
@@ -388,34 +385,31 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Colchão Inflável Solteiro De Luxo Com Bomba Recarregável Portátil Integrada, Completo Com Almofada E Bolsa De Armazenamento Joyfox",
   "category": "Colchão",
   "link": "https://meli.la/1Fg86tw",
   "item_id": "MLB5246422811",
-  "pdp_url": "https://www.mercadolivre.com.br/colchao-inflavel-solteiro-de-luxo-com-bomba-recarregavel-portatil-integrada-completo-com-almofada-e-bolsa-de-armazenamento-joyfox/p/MLB63095447?pdp_filters=item_id%3AMLB5246422811&matt_event_ts=1792427532290&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=c31183cf-1d4d-49d8-8d33-f510873fd477",
+  "pdp_url": "https://www.mercadolivre.com.br/colchao-inflavel-solteiro-de-luxo-com-bomba-recarregavel-portatil-integrada-completo-com-almofada-e-bolsa-de-armazenamento-joyfox/p/MLB63095447?pdp_filters=item_id%3AMLB5246422811&matt_event_ts=1792506150606&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=033c92e6-3c18-4474-b00f-44524116aadb",
   "thumb": [
    "649740-MLA103077184579_122025"
   ],
   "ml_title": "Colchão Inflável Solteiro De Luxo Com Bomba Recarregável Portátil Integrada, Completo Com Almofada E Bolsa De Armazenamento Joyfox",
-  "price": 210.67,
+  "price": 228.99,
   "old_price": 499,
-  "discount": "57% OFF no Pix",
+  "discount": "54% OFF",
   "installments_raw": {
-   "text": "ou {price_total} em outros meios",
+   "text": "12x {price}",
    "no_interest": false,
    "values": [
     {
-     "key": "price_total",
+     "key": "price",
      "type": "price",
      "price": {
-      "value": 228.99,
+      "value": 22.67,
       "currency": "BRL"
-     },
-     "styles": {
-      "color": "primary"
      }
     }
    ]
@@ -441,14 +435,14 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Isolante Tapete Térmico Em Eva Para Camping Aluminizado",
   "category": "Isolante Térmico",
   "link": "https://meli.la/1Ag26Jd",
   "item_id": "MLB5146525377",
-  "pdp_url": "https://www.mercadolivre.com.br/isolante-termico-aluminizado-eva-p-barraca-trekking/p/MLB2043406862?matt_event_ts=1792427534765&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=f4996da9-63fa-4ed9-8c70-df1c921b6c11",
+  "pdp_url": "https://www.mercadolivre.com.br/isolante-termico-aluminizado-eva-p-barraca-trekking/p/MLB2043406862?matt_event_ts=1792506152626&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=d4e047c5-d685-4ee5-a3a5-c913e21de9ec",
   "thumb": [
    "634641-MLB116825861515_082026"
   ],
@@ -456,20 +450,34 @@
   "price": 152,
   "old_price": null,
   "discount": null,
+  "installments_raw": {
+   "text": "12x {price}",
+   "no_interest": false,
+   "values": [
+    {
+     "key": "price",
+     "type": "price",
+     "price": {
+      "value": 15.02,
+      "currency": "BRL"
+     }
+    }
+   ]
+  },
   "shipping_raw": {
    "text": "Frete grátis",
    "values": [],
    "promise_type": "none",
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Isolante Térmico Dobrável Naturehike Egg Crate R.value 1.8",
   "category": "Isolante Térmico",
   "link": "https://meli.la/1Kqts5D",
   "item_id": "MLB5239100575",
-  "pdp_url": "https://www.mercadolivre.com.br/isolante-termico-dobravel-naturehike-egg-crate-rvalue-18/up/MLBU5210730236?pdp_filters=item_id%3AMLB5239100575&matt_event_ts=1792427537235&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=25d62c75-a671-46de-a5d2-90f731a9a4d4",
+  "pdp_url": "https://www.mercadolivre.com.br/isolante-termico-dobravel-naturehike-egg-crate-rvalue-18/up/MLBU5210730236?pdp_filters=item_id%3AMLB5239100575&matt_event_ts=1792506154610&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=56ea1921-1f7a-40ae-8fe6-4c2865a1d18a",
   "thumb": [
    "931823-MLA117707657621_092026"
   ],
@@ -512,14 +520,14 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Isolante Termico Dobravel Solteiro 180x50 Thor Azteq Xpe 8mm",
   "category": "Isolante Térmico",
   "link": "https://meli.la/1Lzrc7W",
   "item_id": "MLB4883410887",
-  "pdp_url": "https://www.mercadolivre.com.br/isolante-termico-dobravel-solteiro-180x50-thor-azteq-xpe-8mm/up/MLBU4304490108?pdp_filters=item_id%3AMLB4883410887&matt_event_ts=1792427539613&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=68985455-ee32-4fac-a606-41b007ed6a96",
+  "pdp_url": "https://www.mercadolivre.com.br/isolante-termico-dobravel-solteiro-180x50-thor-azteq-xpe-8mm/up/MLBU4304490108?pdp_filters=item_id%3AMLB4883410887&matt_event_ts=1792506156637&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=36031d79-bd93-4082-907d-fb210d984477",
   "thumb": [
    "834907-MLB114451762747_072026"
   ],
@@ -548,14 +556,14 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Camplivre Mochila De Hidratação Ataque 20l Camping Trilha",
   "category": "Mochila de Ataque",
   "link": "https://meli.la/2uqzD7a",
   "item_id": "MLB4874424817",
-  "pdp_url": "https://www.mercadolivre.com.br/camplivre-mochila-de-hidratacao-ataque-20l-camping-trilha/up/MLBU4282104626?pdp_filters=item_id%3AMLB4874424817&matt_event_ts=1792427542050&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=e3a8c397-802f-4e58-a1ad-dbb139ce9d3d",
+  "pdp_url": "https://www.mercadolivre.com.br/camplivre-mochila-de-hidratacao-ataque-20l-camping-trilha/up/MLBU4282104626?pdp_filters=item_id%3AMLB4874424817&matt_event_ts=1792506158570&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=e187ce49-ffc2-45ec-8ea9-4174bca159cf",
   "thumb": [
    "801833-MLB114362780113_072026"
   ],
@@ -583,14 +591,14 @@
    "promise_type": "none",
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Mochila Ntk Attack Air X 30 Litros Laranja (Compativel com bolsa de água vendida separadamente)",
   "category": "Mochila de Ataque",
   "link": "https://meli.la/24nVLeH",
   "item_id": "MLB6629771160",
-  "pdp_url": "https://produto.mercadolivre.com.br/MLB-6629771160-mochila-ntk-attack-air-x-30-litros-laranja-laranja-liso-_JM?matt_event_ts=1792427544498&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=7b3b01e2-6e4e-4ca6-a608-00159cce1982",
+  "pdp_url": "https://produto.mercadolivre.com.br/MLB-6629771160-mochila-ntk-attack-air-x-30-litros-laranja-laranja-liso-_JM?matt_event_ts=1792506160511&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=3f92cf12-cca3-44ff-8881-f569e01560f3",
   "thumb": [
    "949269-MLB110959813605_042026"
   ],
@@ -617,14 +625,14 @@
     "icon_id": "vpp_full_icon"
    }
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Mochila De Hidratação Bolsa De Agua 3 Litros Com Refil Incluso Bike Ciclismo Acampamento Corrida Trilha Caminhada Tumblr Cor Verde-escuro",
   "category": "Mochila de Ataque",
   "link": "https://meli.la/1GKpT9v",
   "item_id": "MLB4211027175",
-  "pdp_url": "https://www.mercadolivre.com.br/mochila-de-hidratacao-bolsa-de-agua-3-litros-com-refil-incluso-bike-ciclismo-acampamento-corrida-trilha-caminhada-tumblr-cor-verde-escuro/p/MLB54482054?pdp_filters=item_id%3AMLB4211027175&matt_event_ts=1792427546913&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=3e3f6049-cdc3-4e69-abbd-8d71f23d08b9",
+  "pdp_url": "https://www.mercadolivre.com.br/mochila-de-hidratacao-bolsa-de-agua-3-litros-com-refil-incluso-bike-ciclismo-acampamento-corrida-trilha-caminhada-tumblr-cor-verde-escuro/p/MLB54482054?pdp_filters=item_id%3AMLB4211027175&matt_event_ts=1792506162450&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=a59c5d2c-a099-4851-ab49-b01c4fa22e03",
   "thumb": [
    "940326-MLA96640653877_102025"
   ],
@@ -653,35 +661,35 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Refil Reservatório De Água 2l P/ Mochila Hidratação",
   "category": "Refil de água",
   "link": "https://meli.la/2A3aaDY",
   "item_id": "MLB6835439814",
-  "pdp_url": "https://www.mercadolivre.com.br/refil-reservatorio-de-agua-2l-p-mochila-hidratacao/p/MLB70114020?pdp_filters=item_id%3AMLB6835439814&matt_event_ts=1792427549324&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=15df3574-2c16-4347-81eb-4883ee9c5cdf",
+  "pdp_url": "https://www.mercadolivre.com.br/refil-reservatorio-de-agua-2l-p-mochila-hidratacao/p/MLB70114020?pdp_filters=item_id%3AMLB6835439814&matt_event_ts=1792506164372&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=1248af93-96b7-42ac-987b-42c56283c24e",
   "thumb": [
    "806387-MLA114304104184_082026"
   ],
   "ml_title": "Refil Reservatório De Água 2l P/ Mochila Hidratação",
-  "price": 24.9,
+  "price": 23.64,
   "old_price": 48.29,
-  "discount": "48% OFF",
+  "discount": "51% OFF",
   "shipping_raw": {
    "text": "Frete grátis",
    "values": [],
    "promise_type": "none",
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Bastão De Caminhada Nautika Retrátil Sistema Anti-shock",
   "category": "Bastão de caminhada",
   "link": "https://meli.la/1j6taRn",
   "item_id": "MLB5982431770",
-  "pdp_url": "https://www.mercadolivre.com.br/bastao-de-caminhada-nautika-retratil-sistema-antishock/up/MLBU3641032482?pdp_filters=item_id%3AMLB5982431770&matt_event_ts=1792427551770&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=2ee6c156-2153-4070-9eac-e459b13ee6c8",
+  "pdp_url": "https://www.mercadolivre.com.br/bastao-de-caminhada-nautika-retratil-sistema-antishock/up/MLBU3641032482?pdp_filters=item_id%3AMLB5982431770&matt_event_ts=1792506166370&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=702d1777-92af-4469-9b13-bb514b126b70",
   "thumb": [
    "956766-MLB116172037302_092026"
   ],
@@ -711,7 +719,7 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Bastão De Caminhada Dobrável Antiderrapante Cajado Trekking",
@@ -740,7 +748,7 @@
   "category": "Bastão de caminhada",
   "link": "https://meli.la/2zzHKBM",
   "item_id": "MLB7039319274",
-  "pdp_url": "https://www.mercadolivre.com.br/cajado-madeira-legendario-160m/up/MLBU4150582053?pdp_filters=item_id%3AMLB7039319274&matt_event_ts=1792427557020&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=0aa79217-e7bd-4d93-8911-c32d91ab264d",
+  "pdp_url": "https://www.mercadolivre.com.br/cajado-madeira-legendario-160m/up/MLBU4150582053?pdp_filters=item_id%3AMLB7039319274&matt_event_ts=1792506170482&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=9d292eee-7831-4d0e-8205-6e75a94e72e2",
   "thumb": [
    "678606-MLB117442460248_102026"
   ],
@@ -768,14 +776,14 @@
    "promise_type": "none",
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Lanterna Cabeça Led Headlamp 140 Lumens Luz Vermelha Branca",
   "category": "Lanterna de cabeça",
   "link": "https://meli.la/2QND6hg",
   "item_id": "MLB846747425",
-  "pdp_url": "https://www.mercadolivre.com.br/lanterna-cabeca-led-headlamp-140-lumens-luz-vermelha-branca/up/MLBU1478466303?pdp_filters=item_id%3AMLB846747425&matt_event_ts=1792427559403&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=63f3d29a-c3be-4db4-8807-cceae722b338",
+  "pdp_url": "https://www.mercadolivre.com.br/lanterna-cabeca-led-headlamp-140-lumens-luz-vermelha-branca/up/MLBU1478466303?pdp_filters=item_id%3AMLB846747425&matt_event_ts=1792506172498&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=552d202f-2c4d-471c-b03e-4ad648924432",
   "thumb": [
    "952643-MLB105502475374_012026"
   ],
@@ -804,14 +812,14 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Lanterna De Boné / Cabeça Nitecore Nu11 150 Lumens C/sensor",
   "category": "Lanterna de cabeça",
   "link": "https://meli.la/2tXPbeb",
   "item_id": "MLB7447185850",
-  "pdp_url": "https://www.mercadolivre.com.br/lanterna-de-bone--cabeca-nitecore-nu11-150-lumens-csensor/up/MLBU4781612241?pdp_filters=item_id%3AMLB7447185850&matt_event_ts=1792427561887&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=3e42b3ff-8384-459d-8e0d-5d011202614a",
+  "pdp_url": "https://www.mercadolivre.com.br/lanterna-de-bone--cabeca-nitecore-nu11-150-lumens-csensor/up/MLBU4781612241?pdp_filters=item_id%3AMLB7447185850&matt_event_ts=1792506174490&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=fd9282e7-a02c-4e64-a457-0e16cb3c1c56",
   "thumb": [
    "808463-MLB116371242873_082026"
   ],
@@ -839,14 +847,14 @@
    "promise_type": "none",
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Lanterna Recarregável Led Boné Pescaria Ajustável Ciclismo",
   "category": "Lanterna de cabeça",
   "link": "https://meli.la/1mhrDp9",
   "item_id": "MLB5799663828",
-  "pdp_url": "https://www.mercadolivre.com.br/lanterna-recarregavel-led-bone-pescaria-ajustavel-ciclismo/up/MLBU3486715239?pdp_filters=item_id%3AMLB5799663828&matt_event_ts=1792427564283&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=f0f08926-b578-4685-861f-f9b22cbd3ed6",
+  "pdp_url": "https://www.mercadolivre.com.br/lanterna-recarregavel-led-bone-pescaria-ajustavel-ciclismo/up/MLBU3486715239?pdp_filters=item_id%3AMLB5799663828&matt_event_ts=1792506176436&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=55a1e027-a434-4b0b-b202-eeba6c11a558",
   "thumb": [
    "717008-MLB95103141717_102025"
   ],
@@ -875,14 +883,14 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Lona 2x2 Azul Impermeavel Piscina Barraca Camping Telhado",
   "category": "Lona",
   "link": "https://meli.la/335cE5E",
   "item_id": "MLB4147378195",
-  "pdp_url": "https://www.mercadolivre.com.br/lona-2x2-azul-impermeavel-piscina-barraca-camping-telhado/p/MLB2082063336?pdp_filters=item_id%3AMLB4147378195&matt_event_ts=1792427566717&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=260d13a6-1463-4fb3-8935-88d14744fe60",
+  "pdp_url": "https://www.mercadolivre.com.br/lona-2x2-azul-impermeavel-piscina-barraca-camping-telhado/p/MLB2082063336?pdp_filters=item_id%3AMLB4147378195&matt_event_ts=1792506178354&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=9a29d9f6-bb27-4869-ab7f-b6dac8acb236",
   "thumb": [
    "800679-MLB94138523280_102025"
   ],
@@ -911,14 +919,14 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Saco De Dormir Camping Impermeável Usd Confortável 2,10m X 75cm C/ Bolsa De Transporte",
   "category": "Saco de dormir",
   "link": "https://meli.la/2XKrnfN",
   "item_id": "MLB4485109671",
-  "pdp_url": "https://www.mercadolivre.com.br/saco-de-dormir-camping-impermeavel-usd-confortavel-210m-x-75cm-c-bolsa-de-transporte-cor-laranja-e-cinza/p/MLB65598947?pdp_filters=item_id%3AMLB4485109671&matt_event_ts=1792427569176&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=3bd0167f-5852-40d1-9f45-1165bb349f72",
+  "pdp_url": "https://www.mercadolivre.com.br/saco-de-dormir-camping-impermeavel-usd-confortavel-210m-x-75cm-c-bolsa-de-transporte-cor-laranja-e-cinza/p/MLB65598947?pdp_filters=item_id%3AMLB4485109671&matt_event_ts=1792506180295&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=6a96ac9a-a8ed-47c0-bb3d-b180a2d958c3",
   "thumb": [
    "753867-MLA106592479744_022026"
   ],
@@ -947,34 +955,31 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Joyfox Saco De Dormir Com Zíper Duplo E Abertura Para Os Braços 210 x 75 cm Verde Conforto, Impermeável E Portátil Para Camping",
   "category": "Saco de dormir",
   "link": "https://meli.la/2kVYYwi",
   "item_id": "MLB5664864988",
-  "pdp_url": "https://www.mercadolivre.com.br/joyfox-saco-de-dormir-com-ziper-duplo-e-abertura-para-os-bracos-210-x-75-cm-verde-conforto-impermeavel-e-portatil-para-camping/p/MLB54006952?pdp_filters=item_id%3AMLB5664864988&matt_event_ts=1792427571554&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=73beadcc-10ec-456b-98e3-fb0bb635ede5",
+  "pdp_url": "https://www.mercadolivre.com.br/joyfox-saco-de-dormir-com-ziper-duplo-e-abertura-para-os-bracos-210-x-75-cm-verde-conforto-impermeavel-e-portatil-para-camping/p/MLB54006952?pdp_filters=item_id%3AMLB5664864988&matt_event_ts=1792506182400&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=ade68684-f085-4859-bba2-0ce0a549b945",
   "thumb": [
    "957030-MLA99951628937_112025"
   ],
   "ml_title": "Joyfox Saco De Dormir Com Zíper Duplo E Abertura Para Os Braços 210 x 75 cm Verde Conforto, Impermeável E Portátil Para Camping",
-  "price": 147.43,
+  "price": 169.46,
   "old_price": 229,
-  "discount": "35% OFF no Pix",
+  "discount": "26% OFF",
   "installments_raw": {
-   "text": "ou {price_total} em outros meios",
+   "text": "12x {price}",
    "no_interest": false,
    "values": [
     {
-     "key": "price_total",
+     "key": "price",
      "type": "price",
      "price": {
-      "value": 169.46,
+      "value": 16.75,
       "currency": "BRL"
-     },
-     "styles": {
-      "color": "primary"
      }
     }
    ]
@@ -1000,14 +1005,14 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Saco De Dormir Ntk Viper Legendários Conforto Em Aventuras Laranja",
   "category": "Saco de dormir",
   "link": "https://meli.la/2TPVvHF",
   "item_id": "MLB4204303095",
-  "pdp_url": "https://www.mercadolivre.com.br/saco-de-dormir-ntk-viper-legendarios-conforto-em-aventuras-laranja-esquerda/p/MLB65927542?pdp_filters=item_id%3AMLB4204303095&matt_event_ts=1792427573891&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=722ba98e-3563-4d1f-917d-82ea3d40945d",
+  "pdp_url": "https://www.mercadolivre.com.br/saco-de-dormir-ntk-viper-legendarios-conforto-em-aventuras-laranja-esquerda/p/MLB65927542?pdp_filters=item_id%3AMLB4204303095&matt_event_ts=1792506184309&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=fc28e5e6-1d7e-469e-ab2c-9618938209cd",
   "thumb": [
    "874256-MLA106893044318_022026"
   ],
@@ -1050,14 +1055,14 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Travesseiro Inflável Para Camping Leve E Dobrável Conforto",
   "category": "Travesseiro",
   "link": "https://meli.la/181N8Cc",
   "item_id": "MLB4369463771",
-  "pdp_url": "https://www.mercadolivre.com.br/travesseiro-inflavel-para-camping-leve-e-dobravel-conforto/up/MLBU3678003667?pdp_filters=item_id%3AMLB4369463771&matt_event_ts=1792427576357&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=acb4d134-ab85-4884-bbf9-4e8ad9eabc21",
+  "pdp_url": "https://www.mercadolivre.com.br/travesseiro-inflavel-para-camping-leve-e-dobravel-conforto/up/MLBU3678003667?pdp_filters=item_id%3AMLB4369463771&matt_event_ts=1792506186241&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=f97f8025-f9fc-483d-aaed-7a7ddbc69adb",
   "thumb": [
    "950384-MLB101092128286_122025"
   ],
@@ -1087,14 +1092,14 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Travesseiro Inflável Camping Viagem Carro Praia Prova D'água",
   "category": "Travesseiro",
   "link": "https://meli.la/2w1JZp7",
   "item_id": "MLB7614358950",
-  "pdp_url": "https://www.mercadolivre.com.br/travesseiro-inflavel-camping-viagem-carro-praia-prova-dagua/up/MLBU5122629033?pdp_filters=item_id%3AMLB7614358950&matt_event_ts=1792427578731&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=f28cffb2-f94b-43b4-87b9-e15f6c0b710e",
+  "pdp_url": "https://www.mercadolivre.com.br/travesseiro-inflavel-camping-viagem-carro-praia-prova-dagua/up/MLBU5122629033?pdp_filters=item_id%3AMLB7614358950&matt_event_ts=1792506188214&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=8cdf0c90-0b04-48f0-aa9b-42f6047e66c1",
   "thumb": [
    "662917-MLB115957770964_092026"
   ],
@@ -1124,14 +1129,14 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Tênis Para Legendários Fila Racer Skytrail Masculino",
   "category": "Tenis",
   "link": "https://meli.la/2nYMff7",
   "item_id": "MLB4653059197",
-  "pdp_url": "https://www.mercadolivre.com.br/tenis-para-legendarios-fila-racer-skytrail-masculino/up/MLBU3946120682?pdp_filters=item_id%3AMLB4653059197&matt_event_ts=1792427581213&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=25bde4c2-e311-4075-9404-ab764d881abc",
+  "pdp_url": "https://www.mercadolivre.com.br/tenis-para-legendarios-fila-racer-skytrail-masculino/up/MLBU3946120682?pdp_filters=item_id%3AMLB4653059197&matt_event_ts=1792506190502&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=6fa74b98-b11e-40df-8391-a48548ba58b4",
   "thumb": [
    "850976-MLB111407543112_052026"
   ],
@@ -1159,7 +1164,7 @@
    "promise_type": "none",
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Tênis Asics Trabuco Terra 3 Preto E Laranja",
@@ -1236,7 +1241,7 @@
   "category": "Tenis",
   "link": "https://meli.la/16RtefK",
   "item_id": "MLB7062769516",
-  "pdp_url": "https://www.mercadolivre.com.br/tenis-masculino-gelsonoma-8-verde-asics/up/MLBU4190628924?pdp_filters=item_id%3AMLB7062769516&matt_event_ts=1792427589130&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=99f0906f-04ee-4264-95ac-7937c7ac56b2",
+  "pdp_url": "https://www.mercadolivre.com.br/tenis-masculino-gelsonoma-8-verde-asics/up/MLBU4190628924?pdp_filters=item_id%3AMLB7062769516&matt_event_ts=1792506196945&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=25b37009-028a-4169-b0cd-1b23fca2d572",
   "thumb": [
    "813986-MLB113480279103_062026"
   ],
@@ -1310,14 +1315,14 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "2 Pares Meia Poliamida Lupo Corrida Power Anti Bolha Curta",
   "category": "Meias",
   "link": "https://meli.la/1Zua3RH",
   "item_id": "MLB5883881440",
-  "pdp_url": "https://produto.mercadolivre.com.br/MLB-5883881440-2-pares-meia-poliamida-lupo-corrida-power-anti-bolha-curta-_JM?searchVariation=186671872454&matt_event_ts=1792427591532&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=b714218e-c521-4aaa-bf92-ff6cc15fc391",
+  "pdp_url": "https://produto.mercadolivre.com.br/MLB-5883881440-2-pares-meia-poliamida-lupo-corrida-power-anti-bolha-curta-_JM?searchVariation=186671872452&matt_event_ts=1792506198879&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=8da3fa09-8abb-4b8c-aebd-337f2f8c1409",
   "thumb": [
    "795362-MLB96792062061_102025"
   ],
@@ -1347,14 +1352,14 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Kit 3 Camisa Proteção Uv Masculina Segunda Pele Sol",
   "category": "Roupa Termica",
   "link": "https://meli.la/1Q3Dw3A",
   "item_id": "MLB5471819554",
-  "pdp_url": "https://produto.mercadolivre.com.br/MLB-5471819554-kit-3-camisa-proteco-uv-masculina-segunda-pele-sol-_JM?searchVariation=188768535885&matt_event_ts=1792427593865&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=63dd8df6-7f6e-4b9f-a79d-f41a70321db8",
+  "pdp_url": "https://produto.mercadolivre.com.br/MLB-5471819554-kit-3-camisa-proteco-uv-masculina-segunda-pele-sol-_JM?searchVariation=188768535885&matt_event_ts=1792506200811&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=83e8d33c-c661-4668-9108-25fce26d158b",
   "thumb": [
    "874735-MLB119262059855_102026"
   ],
@@ -1383,14 +1388,14 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Calça Térmica Masculina Legging Esportiva Com Compressão",
   "category": "Roupa Termica",
   "link": "https://meli.la/1juShNY",
   "item_id": "MLB4028637197",
-  "pdp_url": "https://produto.mercadolivre.com.br/MLB-4028637197-calca-termica-masculina-legging-esportiva-com-compresso-_JM?searchVariation=183331218434&matt_event_ts=1792427596302&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=355540e2-ade2-4771-b0e5-59a140cff375",
+  "pdp_url": "https://produto.mercadolivre.com.br/MLB-4028637197-calca-termica-masculina-legging-esportiva-com-compresso-_JM?searchVariation=183331218436&matt_event_ts=1792506202833&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=b13c1b78-79a1-44aa-8d1d-f643de20f766",
   "thumb": [
    "677073-MLB86903355604_072025"
   ],
@@ -1420,14 +1425,14 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Kit 2 Shorts De Compressão P/ Corrida Masculino Térmica",
   "category": "Roupa Termica",
   "link": "https://meli.la/2KvtjPk",
   "item_id": "MLB2150477317",
-  "pdp_url": "https://produto.mercadolivre.com.br/MLB-2150477317-kit-2-shorts-de-compresso-p-corrida-masculino-termica-_JM?searchVariation=174119920536&matt_event_ts=1792427598689&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=66aeb1ee-7b1e-40b7-8c4b-7cfcd9376293",
+  "pdp_url": "https://produto.mercadolivre.com.br/MLB-2150477317-kit-2-shorts-de-compresso-p-corrida-masculino-termica-_JM?searchVariation=174119920536&matt_event_ts=1792506204705&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=e9ab005b-285f-4465-b9f7-04f4f76a2da2",
   "thumb": [
    "906889-MLB88368149898_072025"
   ],
@@ -1457,21 +1462,21 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Tenis Aquático Antiderrapante Neoprene Branquinha Magazine",
   "category": "Tenis",
   "link": "https://meli.la/1Yr12sF",
   "item_id": "MLB3197108973",
-  "pdp_url": "https://produto.mercadolivre.com.br/MLB-3197108973-tenis-aquatico-antiderrapante-neoprene-branquinha-magazine-_JM?searchVariation=182497446035&matt_event_ts=1792427601082&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=b01d79bb-b0a3-4f42-956a-05c61a4188f3",
+  "pdp_url": "https://produto.mercadolivre.com.br/MLB-3197108973-tenis-aquatico-antiderrapante-neoprene-branquinha-magazine-_JM?searchVariation=182497446045&matt_event_ts=1792506206782&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=dfba4887-9dd1-436e-b36a-ed0cc6d35f9e",
   "thumb": [
    "902501-MLB94544438862_102025"
   ],
   "ml_title": "Tenis Aquático Antiderrapante Neoprene Branquinha Magazine",
-  "price": 52,
+  "price": 56.17,
   "old_price": 74.9,
-  "discount": "30% OFF",
+  "discount": "25% OFF",
   "shipping_raw": {
    "text": "Frete grátis",
    "values": [
@@ -1493,14 +1498,14 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Capa De Chuva Poncho Compacto Impermeável Ntk Resistente",
   "category": "Capa de Chuva",
   "link": "https://meli.la/2zs5kVM",
   "item_id": "MLB5879340064",
-  "pdp_url": "https://produto.mercadolivre.com.br/MLB-5879340064-capa-de-chuva-poncho-compacto-impermeavel-ntk-resistente-_JM?searchVariation=192431743009&matt_event_ts=1792427603481&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=04588382-d813-4c9b-81eb-05c3addb3505",
+  "pdp_url": "https://produto.mercadolivre.com.br/MLB-5879340064-capa-de-chuva-poncho-compacto-impermeavel-ntk-resistente-_JM?searchVariation=192431743009&matt_event_ts=1792506208705&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=a31f3378-bd66-4986-a76a-8c04f1a9817b",
   "thumb": [
    "796280-MLB111412093460_052026"
   ],
@@ -1515,14 +1520,14 @@
    "promise_type": "none",
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Capa De Chuva Com Capuz Ajustável Multifuncional Resistente",
   "category": "Capa de Chuva",
   "link": "https://meli.la/2YXwdi6",
   "item_id": "MLB4812218909",
-  "pdp_url": "https://www.mercadolivre.com.br/capa-de-chuva-com-capuz-ajustavel-multifuncional-resistente/up/MLBU4162127522?pdp_filters=item_id%3AMLB4812218909&matt_event_ts=1792427605882&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=39f6edb4-efd6-4c4a-b98e-cebbbbefff97",
+  "pdp_url": "https://www.mercadolivre.com.br/capa-de-chuva-com-capuz-ajustavel-multifuncional-resistente/up/MLBU4162127522?pdp_filters=item_id%3AMLB4812218909&matt_event_ts=1792506210696&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=a26f8aaf-1071-42d2-8ffa-123f2747693a",
   "thumb": [
    "650250-MLB112561317350_062026"
   ],
@@ -1552,14 +1557,14 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Power Bank 50.000 mAh Carregador USB Portátil",
   "category": "Powerbank",
   "link": "https://meli.la/139kfzg",
   "item_id": "MLB6768548610",
-  "pdp_url": "https://www.mercadolivre.com.br/power-bank-50000-mah-carregador-usb-portatil-cabo-carregador-preto-branco/p/MLB56739562?pdp_filters=item_id%3AMLB6768548610&matt_event_ts=1792427608231&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=aeff15c9-74ad-4df6-80d9-3965d560ed74",
+  "pdp_url": "https://www.mercadolivre.com.br/power-bank-50000-mah-carregador-usb-portatil-cabo-carregador-preto-branco/p/MLB56739562?pdp_filters=item_id%3AMLB6768548610&matt_event_ts=1792506212623&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=d1bdd822-c1e4-4bb1-82ff-6ff30e771cb4",
   "thumb": [
    "699217-MLA117051677612_102026"
   ],
@@ -1588,14 +1593,14 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Power Bank 10000mAh Carregador Portátil Turbo Bahrein",
   "category": "Powerbank",
   "link": "https://meli.la/2tqG1qc",
   "item_id": "MLB4270494135",
-  "pdp_url": "https://www.mercadolivre.com.br/power-bank-10000mah-carregador-portatil-turbo-rapido-universal-celular-melhor-carregador-portatil-compativel-com-iphone-notebook-relogios-android-mac-ios-samsung-apple-10000mah-marca-bahrein/p/MLB60955911?matt_event_ts=1792427610656&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=b05f14f0-c5b4-43bb-9b6c-9f09ccf94ca5",
+  "pdp_url": "https://www.mercadolivre.com.br/power-bank-10000mah-carregador-portatil-turbo-rapido-universal-celular-melhor-carregador-portatil-compativel-com-iphone-notebook-relogios-android-mac-ios-samsung-apple-10000mah-marca-bahrein/p/MLB60955911?matt_event_ts=1792506214612&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=7e76ac6d-a121-4fa3-a1c5-6afbd541d7e8",
   "thumb": [
    "774733-MLA115141469339_072026"
   ],
@@ -1625,14 +1630,14 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  },
  {
   "name": "Power Bank Tantsa 20000mAh Turbo USB-C 22,5W Preto",
   "category": "Powerbank",
   "link": "https://meli.la/1VR6Xru",
   "item_id": "MLB5210188245",
-  "pdp_url": "https://www.mercadolivre.com.br/power-bank-tantsa-20000mah-turbo-usbc-225w/up/MLBU5156929856?pdp_filters=item_id%3AMLB5210188245&matt_event_ts=1792427613038&matt_d2id=c14642f1-b33c-4374-8eb7-ca6b31cfb184&matt_tracing_id=cb498101-fbfb-469b-9945-c7866f356ad1",
+  "pdp_url": "https://www.mercadolivre.com.br/power-bank-tantsa-20000mah-turbo-usbc-225w/up/MLBU5156929856?pdp_filters=item_id%3AMLB5210188245&matt_event_ts=1792506216573&matt_d2id=04554f2f-688d-47d4-b2e7-c3432c78c1c9&matt_tracing_id=8e5729ec-1094-4ac9-b4f5-d5f13dd40d16",
   "thumb": [
    "698783-MLA118420349041_092026"
   ],
@@ -1661,6 +1666,6 @@
    },
    "additional_text": "por ser sua primeira compra"
   },
-  "checked_at": "2026-10-19"
+  "checked_at": "2026-10-20"
  }
 ]
