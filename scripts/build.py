@@ -82,6 +82,7 @@ ICONS = {
     "pack": '<path d="M8 6V5a4 4 0 0 1 8 0v1M6 6h12a1 1 0 0 1 1 1v12a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V7a1 1 0 0 1 1-1ZM9 13h6M9 13v3h6v-3"/>',
     "bolt": '<path d="M9 3h6l-1 6h4l-7 12 1-8H8l1-10Z"/>',
     "boot": '<path d="M5 3h6v8l6 3a3 3 0 0 1 3 3v2H4V4a1 1 0 0 1 1-1ZM4 17h16M11 8h2M11 11h3"/>',
+    "rain": '<path d="M7 15a4 4 0 0 1-.5-8A5.5 5.5 0 0 1 17 8a3.5 3.5 0 0 1 0 7H7Z"/><path d="m8 18-1 3M12 18l-1 3M16 18l-1 3"/>',
     "shirt": '<path d="m8 3-5 3 2 5 3-1v11h8V10l3 1 2-5-5-3a4 4 0 0 1-8 0Z"/>',
     "battery": '<rect x="6" y="4" width="12" height="17" rx="2"/><path d="M10 2h4M13 8l-3 5h4l-3 5"/>',
     "search": '<circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/>',
@@ -318,7 +319,8 @@ CHECK = [
     ("Caminhar com segurança", "trilha", ["Lanterna de cabeça (com pilhas ou carregada)", "Bastão de caminhada ou cajado"]),
     ("Bateria", "powerbank", ["Power bank carregado (celular e lanterna)", "Cabo de carregamento compatível"]),
     ("Pés", "calcados", ["Tênis de trilha com solado aderente, já amaciado", "Meias anti-bolha (leve pares extras)", "Tênis aquático para rio e cachoeira"]),
-    ("Roupas", "vestuario", ["Camisa com proteção UV", "Roupa térmica ou de compressão", "Poncho ou capa de chuva"]),
+    ("Roupas", "vestuario", ["Camisa com proteção UV", "Roupa térmica ou de compressão"]),
+    ("Chuva", "capas-de-chuva", ["Poncho ou capa de chuva que cubra também a mochila", "Saco plástico para proteger roupas e saco de dormir"]),
 ]
 blocks = ""
 for title, slug, items in CHECK:

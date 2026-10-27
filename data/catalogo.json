@@ -67,11 +67,19 @@
   },
   {
    "slug": "vestuario",
-   "nome": "Roupas & Chuva",
+   "nome": "Roupas",
    "icone": "shirt",
-   "resumo": "Proteção UV, peças de compressão e capas de chuva para enfrentar sol, frio e aguaceiro.",
+   "resumo": "Camisas com proteção UV e peças térmicas e de compressão para enfrentar sol e frio.",
    "de_para": [
-    "Roupa Termica",
+    "Roupa Termica"
+   ]
+  },
+  {
+   "slug": "capas-de-chuva",
+   "nome": "Capas de Chuva",
+   "icone": "rain",
+   "resumo": "Ponchos e capas de chuva impermeáveis para não molhar você nem a mochila quando o tempo fecha no TOP.",
+   "de_para": [
     "Capa de Chuva"
    ]
   }
@@ -462,22 +470,14 @@
     "Evita assaduras"
    ]
   },
-  "2zs5kVM": {
-   "titulo": "Poncho Capa de Chuva NTK Compacto",
-   "descricao": "Poncho impermeável compacto da NTK, resistente e fácil de guardar. Cobre você e a mochila em caso de chuva.",
+  "2YXwdi6": {
+   "titulo": "Poncho Capa de Chuva com Capuz e Bolso",
+   "descricao": "Capa de chuva tipo poncho com capuz ajustável e bolso frontal. Leve, impermeável e veste rápido por cima da roupa e da mochila quando a chuva chega.",
    "destaques": [
     "Impermeável",
-    "Compacto",
-    "Marca NTK (Nautika)"
-   ]
-  },
-  "2YXwdi6": {
-   "titulo": "Capa de Chuva com Capuz Ajustável",
-   "descricao": "Capa de chuva multifuncional com capuz ajustável, resistente e prática para trilha, acampamento e dia a dia.",
-   "destaques": [
     "Capuz ajustável",
-    "Resistente",
-    "Multiuso"
+    "Bolso frontal",
+    "Cor laranja"
    ]
   },
   "139kfzg": {
@@ -508,6 +508,36 @@
     "Carregamento rápido 22,5 W",
     "Porta USB-C",
     "Cor preta"
+   ]
+  },
+  "1YDBzr4": {
+   "titulo": "Poncho Capa de Chuva Laranja Legendários",
+   "descricao": "Poncho de chuva laranja 100% impermeável, na cor que é a cara do Legendários. Cobre o corpo e a mochila e é fácil de vestir por cima da roupa quando a chuva aperta na trilha.",
+   "destaques": [
+    "100% impermeável",
+    "Cor laranja",
+    "Modelo poncho",
+    "Tamanho único"
+   ]
+  },
+  "2XGbtNH": {
+   "titulo": "Poncho Capa de Chuva NTK Compacto",
+   "descricao": "Poncho compacto da NTK: impermeável, resistente e dobra em um volume pequeno para ficar sempre na mochila de ataque. Na cor laranja.",
+   "destaques": [
+    "Impermeável",
+    "Compacto",
+    "Marca NTK (Nautika)",
+    "Cor laranja, tamanho único"
+   ]
+  },
+  "2aBVF3r": {
+   "titulo": "Capa de Chuva Profissional Laranja",
+   "descricao": "Capa de chuva impermeável de uso profissional, mais robusta que um poncho comum. Indicada para quem vai passar muitas horas na chuva, como em trabalhos de apoio e pescaria.",
+   "destaques": [
+    "Impermeável",
+    "Uso profissional, mais resistente",
+    "Cor laranja",
+    "Tamanho GG"
    ]
   }
  }
